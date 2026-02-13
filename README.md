@@ -28,20 +28,20 @@ A Flutter application that allows users to check the current time of different c
 
 ## 📸 Screenshots
 
-<p align="center">
-  <strong>🏠 Home Screen</strong><br/>
-  <img src="lib/screenshots/Home.png" width="250"/>
-</p>
-
-<p align="center">
-  <strong>📍 Choose Location</strong><br/>
-  <img src="lib/screenshots/Choose_location.png" width="250"/>
-</p>
-
-<p align="center">
-  <strong>📍 New Location</strong><br/>
-  <img src="lib/screenshots/New_location.png" width="250"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <strong>🏠 Home Screen</strong><br/>
+    <img src="lib/screenshots/Home.png" width="200"/>
+  </div>
+  <div>
+    <strong>📍 Choose Location</strong><br/>
+    <img src="lib/screenshots/Choose_location.png" width="200"/>
+  </div>
+  <div>
+    <strong>📍 New Location</strong><br/>
+    <img src="lib/screenshots/New_location.png" width="200"/>
+  </div>
+</div>
 
 
 
@@ -56,8 +56,8 @@ Watch the full demo here:
 
 📂 Project Structure
 
-<p align="center">
-  <img src="lib/screenshots/New_location.png" width="250"/>
+<p >
+  <img src="lib/screenshots/project_structure.png" width="250"/>
 </p>
 
 
