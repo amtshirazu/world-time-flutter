@@ -30,15 +30,15 @@ A Flutter application that allows users to check the current time of different c
 
 <table>
   <tr>
-    <td align="center" style="padding: 0 15px;">
+    <td align="center" style="margin: 0 25px;">
       <strong>🏠 Home Screen</strong><br/>
       <img src="lib/screenshots/Home.png" width="220"/>
     </td>
-    <td align="center" style="padding: 0 15px;">
+    <td align="center" style="margin: 0 25px;">
       <strong>📍 Choose Location</strong><br/>
       <img src="lib/screenshots/Choose_location.png" width="220"/>
     </td>
-    <td align="center" style="padding: 0 15px;">
+    <td align="center" style="margin: 0 25px;">
       <strong>📍 New Location</strong><br/>
       <img src="lib/screenshots/New_location.png" width="220"/>
     </td>
