@@ -1,16 +1,75 @@
-# world_time
+# 🌍 World Time App
 
-A new Flutter project.
+<p align="center">
+  <img src="lib/screenshots/Home.png" width="300">
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter application that allows users to check the current time of different cities around the world in real time.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌎 View real-time clock of multiple world locations  
+- 🌗 Dynamic background that changes based on day/night  
+- 📍 Location selection screen  
+- 🔄 API integration for live time data  
+
+---
+
+## 🛠 Built With
+
+- Flutter  
+- Dart  
+- World Time API  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](lib/screenshots/Home.png)
+
+### 📍 Choose Location Screen
+![Location Screen](lib/screenshots/Choose_location.png)
+
+### 📍 Choose Location Screen
+![New Location Screen](lib/screenshots/New_location.png)
+
+---
+
+## 🎥 Demo Video
+
+Watch the full demo here:  
+![Demo video](lib/demo/demo.mp4)
+
+---
+
+📂 Project Structure
+
+world-time/
+│
+├── lib/
+│   ├── assets/
+│   ├── demo/
+│   │   └── demo.mp4
+│   ├── pages/
+│   │   ├── home_page.dart
+│   │   ├── loading_page.dart
+│   │   └── location_page.dart
+│   ├── screenshots/
+│   │   ├── Choose_location.png
+│   │   ├── Home.png
+│   │   └── New_location.png
+│   ├── services/
+│   │   └── world_time.dart
+│   ├── main.dart
+│   ├── StyledBodyText.dart
+│   └── StyledTitleText.dart
+│
+├── linux/
+├── pubspec.yaml
+├── README.md
+└── .gitignore
+
