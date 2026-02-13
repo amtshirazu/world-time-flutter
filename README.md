@@ -39,7 +39,7 @@ A Flutter application that allows users to check the current time of different c
       <img src="lib/screenshots/Choose_location.png" width="220"/>
     </td>
     <td align="center">
-      <strong>📍 New Location</strong><br/>
+      <strong>🏠 New Location</strong><br/>
       <img src="lib/screenshots/New_location.png" width="220"/>
     </td>
   </tr>
