@@ -29,13 +29,14 @@ A Flutter application that allows users to check the current time of different c
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](lib/screenshots/Home.png)
+<img src="lib/screenshots/Home.png" width="300"/>
 
 ### 📍 Choose Location Screen
-![Location Screen](lib/screenshots/Choose_location.png)
+<img src="lib/screenshots/Choose_location.png" width="300"/>
 
 ### 📍 Choose Location Screen
-![New Location Screen](lib/screenshots/New_location.png)
+<img src="lib/screenshots/New_location.png" width="300"/>
+
 
 ---
 
