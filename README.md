@@ -46,22 +46,6 @@ A Flutter application that allows users to check the current time of different c
 </table>
 
 
-
-
-
-
----
-
-## 🎥 Demo Video
-
-Watch the full demo here:
-
-<video width="600" controls>
-  <source src="lib/demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 ---
 
 📂 Project Structure
