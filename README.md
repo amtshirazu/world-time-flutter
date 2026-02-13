@@ -1,7 +1,7 @@
 # 🌍 World Time App
 
 <p align="center">
-  <img src="lib/screenshots/Home.png" width="300">
+  <img src="lib/screenshots/Home.png" width="200">
 </p>
 
 
@@ -31,15 +31,15 @@ A Flutter application that allows users to check the current time of different c
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
     <strong>🏠 Home Screen</strong><br/>
-    <img src="lib/screenshots/Home.png" width="200"/>
+    <img src="lib/screenshots/Home.png" width="120"/>
   </div>
   <div>
     <strong>📍 Choose Location</strong><br/>
-    <img src="lib/screenshots/Choose_location.png" width="200"/>
+    <img src="lib/screenshots/Choose_location.png" width="120"/>
   </div>
   <div>
     <strong>📍 New Location</strong><br/>
-    <img src="lib/screenshots/New_location.png" width="200"/>
+    <img src="lib/screenshots/New_location.png" width="120"/>
   </div>
 </div>
 
